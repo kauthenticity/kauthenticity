@@ -7,4 +7,4 @@
 <a href="https://www.instagram.com/rkdwlstlf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/js7056" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauthenticity&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauthenticity&show_icons=true&theme=dracula)
