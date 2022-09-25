@@ -1,2 +1,8 @@
-<a href="https://www.instagram.com/rkdwlstlf" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
-<a href="https://blog.naver.com/js7056" target="_blank"><img src="https://img.shields.io/badge/Naver-#03C75A?style=for-the-badge&logo=blog&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.JS&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/rkdwlstlf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/js7056" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
