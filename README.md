@@ -22,6 +22,16 @@
 
 <br />
 
+### 💻 Preferred collaboration tools
+
+<a><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=ffffff"/></a>
+
+<br />
+
 ### 📱 Contact me on
 
 <a href="mailto:kauthenticity@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
