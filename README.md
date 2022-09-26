@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Authentic%20Codes&fontSize=90)
+
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/></a>
