@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Authentic%20Codes&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:DAE2F8,100:D6A4A4&height=140&section=header&text=Authentic%20Codes&fontSize=60&fontColor=dfdfdf)
 
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/></a>
