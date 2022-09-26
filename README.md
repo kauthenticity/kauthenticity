@@ -17,8 +17,10 @@
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff"/></a>
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.JS&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=ffffff"/></a>
 
 <br />
 
@@ -29,6 +31,7 @@
 <a><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=121212"/></a>
 <a><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=ffffff"/></a>
 
 <br />
 
