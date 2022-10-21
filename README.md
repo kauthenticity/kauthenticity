@@ -40,6 +40,7 @@
 <a href="mailto:kauthenticity@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
 <a href="https://www.instagram.com/rkdwlstlf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/js7056" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
+<a href="https://velog.io/@kauthenticity" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=ffffff"/></a>
 
 <br />
 
